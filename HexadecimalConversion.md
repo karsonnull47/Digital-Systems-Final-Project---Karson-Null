@@ -27,4 +27,4 @@ Example:
 15 = F
 <br>
 <br>
-15 is the highest possible value that can be represented using 4 values.
+15 is the highest possible value that can be represented using 4 binary numbers.
